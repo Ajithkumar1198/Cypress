@@ -7,3 +7,4 @@ Feature: open alertpage
         Then click the alert option
         And click alert button
        And click confirmalert
+       
